@@ -21,16 +21,16 @@ http://www.lfd.uci.edu/~gohlke/pythonlibs/#PIL
 ![alt tag](http://pic.jelly9.net/thumb/1406970179494s.jpg)
 
 
-1. Choose numbers of pieces
+  1. Choose numbers of pieces
 
 ![alt tag](http://pic.jelly9.net/thumb/1406970194807s.jpg)
 
-2. Press Go
+  2. Press Go
 
-3. Press r at the screen of picture
+  3. Press r at the screen of picture
 
 ![alt tag](http://pic.jelly9.net/thumb/1406970221381s.jpg)
 
-4. Press q
+  4. Press q
 
 ![alt tag](http://pic.jelly9.net/thumb/1406970531394s.jpg)
