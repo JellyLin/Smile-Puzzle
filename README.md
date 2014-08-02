@@ -14,6 +14,7 @@ http://www.lfd.uci.edu/~gohlke/pythonlibs/#PIL
 ----- How to -----
 
 1. Choose numbers of pieces
+
 ![alt tag](http://pic.jelly9.net/src/1406970179494.jpg)
 2. Press Go
 
