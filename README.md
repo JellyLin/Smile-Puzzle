@@ -18,18 +18,19 @@ http://www.lfd.uci.edu/~gohlke/pythonlibs/#PIL
 
 ----- How to -----
 
-Choose numbers of pieces
-
 ![alt tag](http://pic.jelly9.net/thumb/1406970179494s.jpg)
 
-Press Go
+
+1. Choose numbers of pieces
 
 ![alt tag](http://pic.jelly9.net/thumb/1406970194807s.jpg)
 
-Press r at the screen of picture
+2. Press Go
+
+3. Press r at the screen of picture
 
 ![alt tag](http://pic.jelly9.net/thumb/1406970221381s.jpg)
 
-Press q
+4. Press q
 
 ![alt tag](http://pic.jelly9.net/thumb/1406970531394s.jpg)
