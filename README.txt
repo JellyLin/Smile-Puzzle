@@ -9,7 +9,6 @@ Python with external module : PIL, Numpy, Pygame
 http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
 http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
 http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame
-http://www.lfd.uci.edu/~gohlke/pythonlibs/#Numpy
 http://www.lfd.uci.edu/~gohlke/pythonlibs/#PIL
 
 ----- How to -----
