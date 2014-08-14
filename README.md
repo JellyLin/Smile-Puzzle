@@ -18,19 +18,19 @@ http://www.lfd.uci.edu/~gohlke/pythonlibs/#PIL
 
 ----- How to -----
 
-![alt tag](http://pic.jelly9.net/thumb/1406970179494s.jpg)
+![alt tag](http://i.imgur.com/SXK9dxD.jpg)
 
 
 Choose numbers of pieces
 
-![alt tag](http://pic.jelly9.net/thumb/1406970194807s.jpg)
+![alt tag](http://i.imgur.com/tP0Uhnn.png)
 
 Press Go
 
 Press r at the screen of picture
 
-![alt tag](http://pic.jelly9.net/thumb/1406970221381s.jpg)
+![alt tag](http://i.imgur.com/11CSkmu.png)
 
 Press q
 
-![alt tag](http://pic.jelly9.net/thumb/1406970531394s.jpg)
+![alt tag](http://i.imgur.com/S9wGIRT.png)
